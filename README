@@ -1,6 +1,7 @@
 WikiPraktik Template for DokuWiki
 
-All documentation for this template can be found at
+All documentation for this template can be found at:
+
 https://www.dokuwiki.org/template:wikipraktik
 
 Installation and upgrading of templates is automated by using
@@ -8,11 +9,12 @@ the Extension Manager in DokuWiki. It lets you search for and install
 templates automatically.
 
 However, if you install this plugin manually, make sure it is
-installed in lib/tpl/wikipraktik - if the folder has a different name,
-it will not work.
+installed in 'lib/tpl/wikipraktik' correctly.
 
-Please refer to https://www.dokuwiki.org/template for additional info
-on how to install templates in DokuWiki.
+For additional info on how to install templates in DokuWiki please
+refer to:
+
+https://www.dokuwiki.org/template
 
 ----
 
