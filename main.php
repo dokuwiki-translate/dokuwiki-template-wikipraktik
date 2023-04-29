@@ -4,7 +4,7 @@
  * WikiPraktik Template
  *
  * @author   Petr Kajzar <petr.kajzar@centrum.cz>
- * @license  GPL-3.0-or-later (http://www.gnu.org/licenses/gpl.html)
+ * @license  GPL 2 (http://www.gnu.org/licenses/gpl.html)
  */
 
 if (!defined('DOKU_INC')) die(); /* must be run from within DokuWiki */

@@ -6,7 +6,7 @@
  * @author   Andreas Gohr <andi@splitbrain.org>
  * @author   Anika Henke <anika@selfthinker.org>
  * @author   Petr Kajzar <petr.kajzar@centrum.cz>
- * @license  GPL-3.0-or-later (http://www.gnu.org/licenses/gpl.html)
+ * @license  GPL 2 (http://www.gnu.org/licenses/gpl.html)
  */
 
 // must be run from within DokuWiki
