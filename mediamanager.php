@@ -1,4 +1,5 @@
 <?php
+
 /**
  * DokuWiki Media Manager Popup
  *
@@ -6,6 +7,7 @@
  * @author   Petr Kajzar <petr.kajzar@centrum.cz>
  * @license  GPL-3.0-or-later (http://www.gnu.org/licenses/gpl.html)
  */
+
 // must be run from within DokuWiki
 if (!defined('DOKU_INC')) die();
 
