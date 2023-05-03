@@ -3,7 +3,8 @@
 /**
  * @license GPL 2 (http://www.gnu.org/licenses/gpl.html)
  *
+ * @author EVdeN Eve nAkliYAT <kieran.avent@aol.com>
  * @author Petr Kajzar <petr.kajzar@centrum.cz>
  */
-$lang['footer']                = 'Footer text';
-$lang['wiki']                  = 'Show wiki footer';
+$lang['footer']                = 'Keep on writing, great job!';
+$lang['wiki']                  = 'Keep on writing, great job!';
